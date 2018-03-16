@@ -1,11 +1,11 @@
 # Overview
 
-Below are some of the projects I am currently working on.
+Below are some of the projects I am currently working on:
 
-- [LED Tester](https://github.com/thanders/led_tester)
-- [SystemInfo](https://github.com/thanders/systeminfo_a2)
-- [Flask Platform](https://github.com/thanders/flask_platform)
-- [Movies](https://thanders.github.io/movies/)
-- [Map Reduce Engine](https://github.com/thanders/map_reduce)
+- [LED Tester](https://github.com/thanders/led_tester) - A python program that simulates the manipulation of a light board.
+- [SystemInfo](https://github.com/thanders/systeminfo_a2) - A python package that displays local system information
+- [Flask Platform](https://github.com/thanders/flask_platform) - A basic flask implementation
+- [Movies](https://thanders.github.io/movies/) - A bash script that scrapes the names and release dates of movies playing in your area
+- [MapReduce Engine](https://github.com/thanders/MapReduce) - A single node implementation of a MapReduce engine in Bash
 
 **Bold** and _Italic_ and `Code` text
