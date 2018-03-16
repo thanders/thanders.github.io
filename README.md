@@ -8,4 +8,7 @@ Below are some of the projects I am currently working on:
 - [Movies](https://thanders.github.io/movies/) - A bash script that scrapes and displays the titles of movies playing in your area
 - [MapReduce Engine](https://github.com/thanders/MapReduce) - A single node implementation of a MapReduce engine in Bash
 
-'''**Bold** and _Italic_ and `Code` text'''
+
+<!---
+**Bold** and _Italic_ and `Code` text
+-->
