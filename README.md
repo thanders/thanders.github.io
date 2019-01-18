@@ -12,7 +12,7 @@ Bash Scripts:
 - [MapReduce Engine](https://github.com/thanders/MapReduce) - A single node implementation of a MapReduce engine in Bash
 
 Java:
-
+- [SilverScreen](https://github.com/thanders/silverScreen) - a Java application with a JavaFX GUI for obtaining a list of the latest movie releases
 
 <!---
 **Bold** and _Italic_ and `Code` text
