@@ -3,7 +3,10 @@
 Below are some of the projects I am currently working on:
 
 Web Applications
+- [Hotel room reservation system](https://thanders.github.io/HotelWebApplication/) - An hotel room reservation system for a fictional Hotel. Implemented in Java using JSP. HTML/CSS and Mysql database included.
+
 - [Research Practicum - DublinBus](https://github.com/Ematrix163/Dublin_Bus_Project) - a web application (Python/Django/React) that estimates journey times for trips on the DublinBus network using predictive data analytics.
+
 - [OnYourBike](https://github.com/atreanor/OnYourBike) - A web application (Python/Flask) that combines bike usage information from Dublin Bikes and weather data from OpenWeatherMap.
 
 
