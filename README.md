@@ -2,12 +2,12 @@
 
 Below are some of the projects I am currently working on:
 
-## Web Applications
+<b>Web Applications</b>
 - [Online travel agency.](https://github.com/thanders/BookingPlatform) - A generic booking platform with multi-partner booking capability
 
 - [Hotel room reservation system](https://thanders.github.io/HotelWebApplication/) - A hotel room reservation system for a fictional hotel. Implemented in Java using JSP. HTML/CSS and Mysql database included.
 
-## Java:
+<b>Java</b>:
 - [SilverScreen](https://thanders.github.io/silverScreen/) - a Java application with a JavaFX GUI for obtaining a list of the latest movie releases
 
 # Past projects
