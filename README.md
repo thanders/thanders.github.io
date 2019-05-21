@@ -3,8 +3,7 @@
 Below are some of the projects I am currently working on:
 
 <b>Web Applications</b>
-- [Hotel room reservation system](https://thanders.github.io/HotelWebApplication/) - A hotel room reservation system for a fictional hotel. Implemented in Java using JSP. Website is hosted [here](https://134.209.169.146:8443/MariottWebAPP){:target="_blank"}
-
+- [Hotel room reservation system](https://thanders.github.io/HotelWebApplication/) - A hotel room reservation system for a fictional hotel. Implemented in Java using JSP. Website is hosted <a href="https://134.209.169.146:8443/MariottWebAPP" target="_blank">here</a>
 - [Java Exam Preparation Platform]() - A quiz platform for Java exam preparation questions. Implemented with Java Spring-Boot.
 
 <b>Java</b>:
