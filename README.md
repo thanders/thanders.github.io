@@ -12,7 +12,7 @@ Related technology: React, Redux, Create-React-App, React DOM, React-Redux, GH-P
 Related technology: React, Create-React-App, React DOM, GH-Pages, Callback functions
 
 **CLI Applications**
-- [GetOpenFEC](https://snapcraft.io/getopenfec) - GetOpenFEC is a command line interface (CLI) tool for requesting, parsing and persisting OpenFEC API data. The related Github repo is [here](https://github.com/thanders/GetOpenFEC)
+- [GetOpenFEC](https://snapcraft.io/getopenfec) - GetOpenFEC is a command line interface (CLI) tool for requesting, parsing and persisting OpenFEC API data. The related Github repo is [here](https://github.com/thanders/GetOpenFEC). This has been published to snapcraft.io
 
 Related technology: Java8, Spring-boot, Maven, Snapcraft, AWS DynamoDB
 
