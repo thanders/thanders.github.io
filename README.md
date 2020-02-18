@@ -3,10 +3,16 @@
 Below are some of the projects I am currently working on:
 
 <b>Web Applications</b>
-- [Hotel room reservation system](https://thanders.github.io/HotelWebApplication/) - A hotel room reservation system for a fictional hotel. Implemented in Java using JSP. Website is hosted <a href="https://134.209.169.146:8443/MariottWebAPP" target="_blank">here</a>
-- [Java Exam Preparation Platform]() - A quiz platform for Java exam preparation questions. Implemented with Java Spring-Boot.
+[ReactReduxCounter](https://thanders.github.io/ReactReduxCounter/) - is a small webapp that manipulates uses Redux to manage the React webapp's state. The related Github repo is [here](https://github.com/thanders/GetOpenFEC)
 
-<b>Java</b>:
+Related technology: React, Redux, Create-React-App, React DOM, React-Redux, GH-Pages
+
+<b>CLI Applications</b>
+- [GetOpenFEC](https://snapcraft.io/getopenfec) - GetOpenFEC is a command line interface (CLI) tool for requesting, parsing and persisting OpenFEC API data. The related Github repo is [here](https://github.com/thanders/GetOpenFEC)
+
+Related technology: Java8, Spring-boot, Maven, Snapcraft, AWS DynamoDB
+
+<b>Desktop Applications</b>
 - [SilverScreen](https://thanders.github.io/silverScreen/) - a Java application with a JavaFX GUI for obtaining a list of the latest movie releases
 
 # Past projects
