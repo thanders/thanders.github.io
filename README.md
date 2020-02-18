@@ -2,8 +2,8 @@
 
 Below are some of the projects I am currently working on:
 
-<b>Web Applications</b>
-[ReactReduxCounter](https://thanders.github.io/ReactReduxCounter/) - is a small webapp that manipulates uses Redux to manage the React webapp's state. The related Github repo is [here](https://github.com/thanders/GetOpenFEC)
+<b>React webapps</b>
+- [ReactReduxCounter](https://thanders.github.io/ReactReduxCounter/) - is a small webapp that manipulates uses Redux to manage the React webapp's state. The related Github repo is [here](https://github.com/thanders/GetOpenFEC)
 
 Related technology: React, Redux, Create-React-App, React DOM, React-Redux, GH-Pages
 
