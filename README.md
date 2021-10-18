@@ -3,7 +3,7 @@
 Below are some of the projects I am currently working on:
 
 **React webapps**
-- [ReactReduxCounter](https://thanders.github.io/ReactReduxCounter/) - is a small webapp that manipulates uses Redux to manage the React webapp's state. The related Github repo is [here](https://github.com/thanders/GetOpenFEC)
+- [Technology Bear](https://www.technologybear.net) - is a NextJS blog for technology tutorials and reviews. The related Github repo is [here](https://github.com/thanders/techblog)
 
 Related technology: React, Redux, Create-React-App, React DOM, React-Redux, GH-Pages
 
