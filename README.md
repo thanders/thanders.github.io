@@ -3,7 +3,7 @@
 Below are some of the projects I am currently working on:
 
 **React webapps**
-- [Coin Bear](https://thanders.github.io/coinbear){:target="_blank"} - This a work in progress. It's a react-js project for crypto currency portfolio management. Global state is done with Redux. See [here](https://github.com/thanders/coinbear){:target="_blank"} for details
+- [Coin Bear](https://thanders.github.io/coinbear) - This a work in progress. It's a react-js project for crypto currency portfolio management. Global state is done with Redux. See [here](https://github.com/thanders/coinbear) for details
 - [Technology Bear](https://www.technologybear.net) - is a NextJS blog for technology tutorials and reviews. The related Github repo is [here](https://github.com/thanders/techblog)
 
 Related technology: React, Redux, Create-React-App, React DOM, React-Redux, GH-Pages
